@@ -13,7 +13,7 @@
 📖 [在Js中文网 -前端进阶资源教程，上查看本手册](https://www.javascriptc.com/docs/babel-manual)
 
 ## 目录
-————
+
 ###  指南
 + [Babel 是什么？](https://www.javascriptc.com/docs/babel-manual/base)
 + [使用指南](https://www.javascriptc.com/docs/babel-manual/usage)
