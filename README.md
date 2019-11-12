@@ -10,7 +10,7 @@
 + 源码转换 (codemods)
 + 更多！ (查看这些 [视频](https://babeljs.io/videos) 获得启发) ,- **需要梯子哦**
 
-📖 [在Js中文网 -前端进阶资源教程，上查看本手册](https://www.javascriptc.com/docs/babel-manual)
+📖 [在Js中文网 -前端进阶资源教程:heavy_check_mark:，上查看本手册](https://www.javascriptc.com/docs/babel-manual)
 
 ## 目录
 
